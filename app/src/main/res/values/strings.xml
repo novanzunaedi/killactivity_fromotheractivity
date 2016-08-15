@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Killactivityfrom_otheractivity</string>
+    <string name="title_activity_activity_dua">Activity_dua</string>
+    <string name="title_activity_activity_tiga">Activity_tiga</string>
+</resources>
